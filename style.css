@@ -1,4 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,700);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
 body{
   font-size: 1em;
+  /*font-family: "Montserrat","游ゴシック",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;*/
+  color: #444;
+  font: normal 18px/22px "Varela Round", sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
   width:auto;
+}
+h1, h2{
+  font-family: 'Josefin Sans', sans-serif;
 }
