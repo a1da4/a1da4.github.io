@@ -30,8 +30,10 @@ Natural Language Processing Labolatory (Komachi Lab), Graduate School of System 
 ## Publications
 ### Journal
  - **Taichi Aida** and Kazuhide Yamamoto. **Estimating Machine Translation Quality of any Input Sentence.** International Journal of Asian Language Processing (IJALP), Vol.30, No.1, pp.1-17, World Scientific Publishing May, 2020. [[link](https://www.worldscientific.com/doi/10.1142/S2717554520500022)]
+
 ### International Conference
  - **Taichi Aida** and Kazuhide Yamamoto. **Confidence Modeling for Neural Machine Translation.** International Conference for Asian Language Processing (IALP), pp.349-354, Shanghai, China. November, 2019. 
+
 ### Others
  - **相田 太一**, 小町 守, 小木曽 智信, 高村 大也, 坂田 綾香, 小山 慎介, 持橋 大地. **単語分散表現の結合学習による単語の意味の通時的変化の分析.** 「通時コーパス」シンポジウム2020オンライン. March, 2020. [[link](https://www.ninjal.ac.jp/event/specialists/project-meeting/m-2020/20200913/)]
  - **相田 太一**, 小町 守, 小木曽 智信, 持橋 大地. **単語分散表現を用いた近現代語の意味変化の抽出.** 研究発表会 「昭和・平成書き言葉コーパスによる近現代日本語の実証的研究」. August, 2020. [[link](https://www.ninjal.ac.jp/event/specialists/project-meeting/m-2020/20200808/)] 
