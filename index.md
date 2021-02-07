@@ -17,6 +17,7 @@ Natural Language Processing Labolatory (Komachi Lab), Graduate School of System 
 ### Programming
    - Python: Familiar
    - C++: Beginner
+
 ### Natural Language
    - Japanese: Native
    - English: TOEIC 725
